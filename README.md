@@ -9,7 +9,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Linux-800080?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-    <img src="https://img.shields.io/badge/-JavaScript-8ee53f?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
+    <img src="https://img.shields.io/badge/-NodeJS-067536?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/-NPM-BA55D3?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/-JavaScript-8ee53f?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/-C%23-498612?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/-Codeigniter-D5D754?style=for-the-badge&logo=laravel&logoColor=white" alt="Codeigniter">
