@@ -1,7 +1,7 @@
-## 🥝 arandomkiwi [![Twiiter Badge](https://img.shields.io/badge/-aRandomKiwi-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/arandomkiwi1/)](https://www.twitter.com/arandomkiwi1/) 
+## 🥝 [![Twiiter Badge](https://img.shields.io/badge/-aRandomKiwi-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/arandomkiwi1/)](https://www.twitter.com/arandomkiwi1/) 
  <p align="center">
     <a href="https://ko-fi.com/arandomkiwi">
-        <img src="https://i.imgur.com/j6rtAY1.png" alt="RimThemes" />
+        <img src="https://i.imgur.com/j6rtAY1.png" alt="Buy me a Kiwi !" />
     </a>
 </p>
 
