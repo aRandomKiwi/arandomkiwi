@@ -1,16 +1,20 @@
-### Hi there 👋
+## arandomkiwi
+ <p align="center">
+    <a href="https://ko-fi.com/arandomkiwi">
+        <img src="https://i.imgur.com/j6rtAY1.png" alt="RimThemes" />
+    </a>
+</p>
+## Languages and techs :
 
-<!--
-**aRandomKiwi/arandomkiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://img.shields.io/badge/-Linux-800080?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/-Codeigniter-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Codeigniter">
+    <img src="https://img.shields.io/badge/-Riotjs-9370DB?style=for-the-badge&logo=react&logoColor=white" alt="RiotJS">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
