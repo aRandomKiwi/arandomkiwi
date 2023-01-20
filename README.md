@@ -1,4 +1,4 @@
-## 🥝 [![Twitter Badge](https://img.shields.io/badge/-%40arandomkiwi1-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/arandomkiwi1/)](https://www.twitter.com/arandomkiwi1/) [![Steam Badge](https://img.shields.io/badge/-aRandomKiwi-2e2d2c?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198059955795/)](https://steamcommunity.com/profiles/76561198059955795/) 
+
  <p align="center">
     <a href="https://ko-fi.com/arandomkiwi">
         <img src="https://i.imgur.com/j6rtAY1.png" alt="Buy me a Kiwi !" />
